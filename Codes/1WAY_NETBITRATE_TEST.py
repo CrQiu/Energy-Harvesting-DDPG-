@@ -9,7 +9,6 @@ Deep Deterministic Policy Gradient (DDPG), Reinforcement Learning.
 1-way relay, net bit rate, energy harvesting example for validation.
 Using:
 tensorflow 1.0
-gym 0.8.0
 """
 import tensorflow as tf
 import numpy as np
