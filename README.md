@@ -8,11 +8,11 @@ We thank the author MorvanZhou for his DDPG class codes, which is available at:
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG
 
 
-If you find it useful in your research, please consider citing:
+    If you find it useful in your research, please consider citing:
+    @article{crqiu_DDPG,
+        Author = {Chengrun Qiu, Yang Hu, Yan Chen, Bing Zeng},
+        Title = {Deep Deterministic Policy Gradient (DDPG) based Energy Harvesting Wireless Communications},
+        Journal = {IEEE Internet of Things Journal},
+        Year = {2019}
+    }
 
-@article{crqiu_DDPG,
-    Author = {Chengrun Qiu, Yang Hu, Yan Chen, Bing Zeng},
-    Title = {Deep Deterministic Policy Gradient (DDPG) based Energy Harvesting Wireless Communications},
-    Journal = {IEEE Internet of Things Journal},
-    Year = {2019}
-}
