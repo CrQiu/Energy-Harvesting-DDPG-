@@ -10,7 +10,6 @@ P2P network, net bit rate, energy harvesting example for training.
 Thanks to : https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG
 Using:
 tensorflow 1.0
-gym 0.8.0
 """
 import math
 import tensorflow as tf
