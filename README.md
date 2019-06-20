@@ -9,6 +9,7 @@ https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master
 
 
 If you find it useful in your research, please consider citing:
+
 @article{crqiu_DDPG,
     Author = {Chengrun Qiu, Yang Hu, Yan Chen, Bing Zeng},
     Title = {Deep Deterministic Policy Gradient (DDPG) based Energy Harvesting Wireless Communications},
