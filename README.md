@@ -5,7 +5,6 @@ For the net bit rate in P2P network and 1-way relay network in "Deep Determinist
 Policy Gradient (DDPG) based Energy Harvesting Wireless Communications"
 
     Tensorflow >= 1.0
-    gym >= 0.8
 
 We thank the author MorvanZhou for his DDPG class codes, which is available at:
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG
